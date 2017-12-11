@@ -10,6 +10,6 @@ Thats where this webpage comes in handy. During Week 2, all the matchups will be
 But really this is just a fun little project I am working on to become more familiar with ReactJS and Redux. It is a work-in-progress, and I still have a few hours of work to put into this before it is complete.
 
 ### Screenshot
-This is what it currently looks like. Users can select the matchup (shown in bold), the colored bubbles will eventually show up at the bottom. A user would then be able to hover over the bubble and a tooltip will show what outcomes are needed for a team to make it out of group stage.
+This is what it currently looks like. Users can select the matchup (shown in bold), the colored bubbles will eventually show up at the bottom. A user would then be able to hover over the bubble and a tooltip will show what outcomes are needed for a team to make it out of group stage. (Styling still needs to be updated)
 
 ![Alt text](screenshots/current-12-10-17.png?raw=true "Current")
