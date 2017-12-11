@@ -12,4 +12,4 @@ But really this is just a fun little project I am working on to become more fami
 ### Screenshot
 This is what it currently looks like. Users can select the matchup (shown in bold), the colored bubbles will eventually show up at the bottom. A user would then be able to hover over the bubble and a tooltip will show what outcomes are needed for a team to make it out of group stage. (Styling still needs to be updated)
 
-![Alt text](screenshots/current-12-10-17.png?raw=true "Current"){:height="50%" width="50%"}
+<img src="screenshots/current-12-10-17.png" width="300">
